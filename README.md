@@ -1,6 +1,4 @@
-# Data
-
-## USPS Mailboxes
+# USPS Mailboxes
 
 | **Field**|**datatype**|
 |--------|--------|
